@@ -1,0 +1,27 @@
+[
+  {
+    "title": "E-commerce Website",
+    "imageSrc": "projects/project.png",
+    "description": "A sleek e-commerce platform with secure transactions, intuitive product filtering, and modern web technologies for optimal performance and scalability.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "CodePairs",
+    "imageSrc": "projects/project.png",
+    "description": "A fun card-matching game where players match programming language logos, featuring randomized positions and smooth gameplay to boost memory skills.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  
+  {
+    "title": "Currency Converter",
+    "imageSrc": "projects/project.png",
+    "description": "Currency Converter offers instant, accurate currency conversions with real-time rates, designed for ease of use and keeping up with market trends effortlessly.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
