@@ -1,27 +1,26 @@
 [
   {
-    "title": "E-commerce Website",
-    "imageSrc": "projects/project.png",
-    "description": "A sleek e-commerce platform with secure transactions, intuitive product filtering, and modern web technologies for optimal performance and scalability.",
+    "title": "Viba",
+    "imageSrc": "projects/VBAwhite.png",
+    "description": "Viba is an e-commerce platform promoting authentic Indian village products, offering a seamless shopping experience while supporting local artisans.",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+ 
+    "source": "https://github.com/ashutosh-singh83/ViBa"
   },
   {
     "title": "CodePairs",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/CodePairs.png",
     "description": "A fun card-matching game where players match programming language logos, featuring randomized positions and smooth gameplay to boost memory skills.",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+
+    "source": "https://github.com/ashutosh-singh83/Projects/tree/main/HTML%20CSS%20Javascript%20Projects/IMP%20projects/Search%20Matching%20Cards%20Game"
   },
   
   {
     "title": "Currency Converter",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/CurrencyConv.png",
     "description": "Currency Converter offers instant, accurate currency conversions with real-time rates, designed for ease of use and keeping up with market trends effortlessly.",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ashutosh-singh83/Projects/tree/main/HTML%20CSS%20Javascript%20Projects/IMP%20projects/Currency%20Converter"
   }
 ]
